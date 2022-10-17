@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepraj-97
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C and DSA
+- 🌱 I’m currently learning C++ and DSA
 - 💞️ I’m looking to collaborate on coding exercises
 - 📫 How to reach me via email - deeprajmishra14@gmail.com
 
